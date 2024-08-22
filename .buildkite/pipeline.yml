@@ -1,0 +1,4 @@
+steps:
+  - label: ":game_die:"
+    key: "random"
+    command: ".buildkite/steps/random.sh"
